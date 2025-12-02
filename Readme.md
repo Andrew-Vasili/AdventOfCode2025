@@ -24,7 +24,7 @@ In this repo, you'll find my solutions organized by day. Each solution includes 
 | Day | Puzzle Title        | Language(s) Used | Status  |
 |-----|---------------------|------------------|---------|
 | 1   | [Secret Entrance](solutions/day1/)  | Go      | ✅ Done    |
-| 2   | [TBA](solutions/day2/)              | TBD     | ❌ Done    |
+| 2   | [Gift Shop](solutions/day2/)        | Go      | ✅ Done    |
 | 3   | [TBA](solutions/day3/)              | TBD     | ❌ Done    |
 | 4   | [TBA](solutions/day4/)              | TBD     | ❌ Done    |
 | 5   | [TBA](solutions/day5/)              | TBD     | ❌ Done    |
