@@ -12,7 +12,7 @@ import (
 func readLines(filename string) ([]string, error) {
 	f, err := os.Open(filename)
 	if err != nil {
-		return nil, err
+		panic(err)
 	}
 	defer f.Close()
 
