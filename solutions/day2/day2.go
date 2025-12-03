@@ -18,7 +18,7 @@ func readInput(path string) (string, error) {
 
 	data, err := io.ReadAll(f)
 	if err != nil {
-		return "", err
+		panic(err)
 	}
 
 	return strings.TrimSpace(string(data)), nil
