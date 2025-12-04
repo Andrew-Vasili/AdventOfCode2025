@@ -26,7 +26,7 @@ In this repo, you'll find my solutions organized by day. Each solution includes 
 | 1   | [Secret Entrance](solutions/day1/)  | Go      | ✅ Done    |
 | 2   | [Gift Shop](solutions/day2/)        | Go      | ✅ Done    |
 | 3   | [Lobby](solutions/day3/)            | Go      | ✅ Done    |
-| 4   | [TBA](solutions/day4/)              | TBD     | ❌ Done    |
+| 4   | [Printing Department](solutions/day4/) | Go   | ✅ Done    |
 | 5   | [TBA](solutions/day5/)              | TBD     | ❌ Done    |
 | 6   | [TBA](solutions/day6/)              | TBD     | ❌ Done    |
 | 7   | [TBA](solutions/day7/)              | TBD     | ❌ Done    |
